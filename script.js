@@ -1,5 +1,5 @@
 
-{force:true}
+
 $(document).ready(function () {
     $(window).scroll(function () {
         // sticky navbar on scroll script
