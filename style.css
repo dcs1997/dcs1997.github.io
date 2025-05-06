@@ -384,6 +384,9 @@ section .title::after {
 }
 .projectcards .imageProject img {
   width: 100%;
+  height: 450px;
+  object-fit: cover;
+   border-radius: 8px;
 }
 .projectcards .textProject {
   width: 100%;
